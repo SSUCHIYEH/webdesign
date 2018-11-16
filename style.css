@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/earlyaccess/notosanstc.css');
+
+@import url('https://fonts.googleapis.com/earlyaccess/cwtexyen.css');
+body{
+    padding:0;
+    margin: 0;
+   width: 100vw;
+}
+.area0{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    font-size:0;
+    text-align: center;
+}
+.block{
+
+    width: calc(100% / 5);
+    height: 100%;
+    display:inline-block;
+    
+}
+.b1{
+    background-image: url(http://p3.pstatp.com/large/106b00018c23e47205f4);
+    background-size: cover;
+    background-position: 28% 0;
+}
+.b2{
+    background-image: url(https://i.ytimg.com/vi/q3P7S_bx0S8/maxresdefault.jpg);
+    background-size: cover;
+    background-position: 46% 0;
+}
+.b3{
+    background-image: url(https://pbs.twimg.com/media/CyOtgSsUkAA9339.jpg);
+    background-size: cover;
+    background-position: 48% 0;
+}
+.b4{
+    background-image: url(https://cdn-ak.f.st-hatena.com/images/fotolife/n/nek654/20170119/20170119182338.jpg);
+    background-size: cover;
+    background-position: 50% 0;
+}
+.b5{
+    background-image: url(http://8.blog.xuite.net/8/f/8/5/23796420/blog_1982095/txt/33945316/8.jpg);
+    background-size: cover;
+    background-position: 78% 0;
+}
+.area1{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(http://p3.pstatp.com/large/106b00018c23e47205f4);
+    background-size: cover;
+}
+.area2{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://i.ytimg.com/vi/q3P7S_bx0S8/maxresdefault.jpg);
+    background-size: cover;
+}
+.area3{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://pbs.twimg.com/media/CyOtgSsUkAA9339.jpg);
+    background-size: cover;
+}
+.area4{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://cdn-ak.f.st-hatena.com/images/fotolife/n/nek654/20170119/20170119182338.jpg);
+    background-size: cover;
+}
+.area5{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(http://8.blog.xuite.net/8/f/8/5/23796420/blog_1982095/txt/33945316/8.jpg);
+    background-size: cover;
+}
+
+.title1{
+    position: absolute;
+    background-color: rgba(250, 250, 250, 0.5);
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 70px;
+    padding:0 15px 0 15px;
+    right: 20px;
+    top:20px;  
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 400;
+    letter-spacing: 3px;
+    
+}
+.title2{
+    position: absolute;
+    background-color: rgba(250, 250, 250, 0.5);
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 70px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 400;
+    letter-spacing: 3px;
+    padding:0 15px 0 15px;
+    left: 20px;
+    top:20px; 
+}
+.title3{
+    position: absolute;
+    background-color: rgba(250, 250, 250, 0.5);
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 70px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 400;
+    letter-spacing: 3px;
+    padding:0 15px 0 15px;
+    right: 20px;
+    bottom:20px;
+}
+.title4{
+    position: absolute;
+    background-color: rgba(250, 250, 250, 0.5);
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 70px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 400;
+    letter-spacing: 3px;
+    padding:0 15px 0 15px;
+    left: 20px;
+    top:20px;    
+}
+.title5{
+    position: absolute;
+    background-color: rgba(250, 250, 250, 0.5);
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 70px;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-weight: 400;
+    padding:0 15px 0 15px;
+    right: 20px;
+    bottom:20px;    
+    
+}
+.text0 {
+    left:110px;
+    position: absolute;
+    font-size: 90px;
+    color: rgba(0,0,0,0.7);
+    font-weight: bold;
+    letter-spacing: 15px;
+    bottom:35px;
+    padding:5px;
+}
+.text1{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 400px;
+    padding: 10px;
+    left:20px;
+    bottom:20px;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFF;
+    font-family: ‘Noto Sans TC’, sans-serif;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+.text2{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 450px;
+    padding: 10px;
+    right: 35px;
+    bottom:45px;
+    line-height: 30px;
+    font-size: 18px;
+    color: #fff;
+    font-family: ‘Noto Sans TC’, sans-serif;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+.text3{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 400px;
+    padding: 10px;
+    left:50px;
+    top:50px;
+    line-height: 30px;
+    font-size: 18px;
+    color: #fff;
+    font-family: ‘Noto Sans TC’, sans-serif;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+.text4{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 500px;
+    right:20px;
+    padding: 10px;
+    line-height: 30px;
+    bottom:20px;
+    font-size: 18px;
+    color: #fff;
+    font-family: ‘Noto Sans TC’, sans-serif;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+.text5{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 600px;
+    left:50px;
+    padding: 10px;
+    line-height: 30px;
+    top:50px;
+    font-size: 18px;
+    color: #fff;
+    font-family: ‘Noto Sans TC’, sans-serif;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+
+.nav{
+    position: absolute;
+    z-index: 1;
+    width: 100vw;
+    box-sizing:border-bow; 
+    top:520px;
+    font-family: 'cwTeXYen', sans-serif;
+   
+}
+.nav ul{
+    list-style-type:none ;
+    padding: 0;
+    margin: 0;
+    font-size: 0;
+}
+.nav ul li{
+    
+    display: inline-block;
+    width: calc(100% / 5);
+    text-align: center;
+
+}
+.nav ul li a{
+    border-radius: 10px;
+    border:2px solid rgba(0,0,0,0.8);
+    color: rgba(0,0,0,0.8);
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+}
+.nav ul li a:hover{
+    border-radius: 10px;
+    border:2px solid rgba(0, 0, 0, 0.5);
+    background-color: rgba(250, 250, 250, 0.5);
+    color: rgba(0, 0, 0, 0.6);
+}
+
+footer{
+    width: 100vw;
+    height: 20px;
+    padding: 5px -2px 5px 5px;
+    background-color: #818489;
+    color: #000;
+    text-align: center;
+    font-family: 'cwTeXYen', sans-serif;
+}
